@@ -6,6 +6,16 @@ I build web apps, Python automation tools and video edits for clients who want c
 
 **Contact:** [mahamedwow1@gmail.com](mailto:mahamedwow1@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mahamed-yasser-00b43a392) | Portfolio: [mahamed-yasser-3d.pages.dev](https://mahamed-yasser-3d.pages.dev/)
 
+## Start here
+
+Three projects to explore first:
+
+- [StockFlow](https://github.com/mahamed-yasser/stockflow): Inventory, orders and sales reports for small shops. Built with Node.js and SQLite, with automated tests.
+- [InvoiceDesk](https://github.com/mahamed-yasser/invoicedesk): Clients, invoices, payments and a receivables dashboard. Built with Node.js and SQLite, with automated tests.
+- [SRT Toolkit](https://github.com/mahamed-yasser/srt-toolkit): A Python command-line tool to shift, sync, merge and clean subtitles, and convert them to WebVTT. Supports Arabic text and Windows-1256 files, using only the Python standard library.
+
+StockFlow and InvoiceDesk are local demos with fictional data and have not been security-reviewed. See each project's README for its limits.
+
 ## Business apps (Node.js + SQLite, run locally)
 Each repo has screenshots, run steps, tests and its limits. Demo data is fictional. They are portfolio demos, not security-reviewed and not deployed for real users.
 
